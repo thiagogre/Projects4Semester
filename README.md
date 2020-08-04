@@ -20,10 +20,8 @@
 
 <p align="center">
  <a href="#-about-the-project">About</a> •
- <a href="#%EF%B8%8F-Days">Days</a> •
- <a href="#-how-it-works">How it works</a> • 
+ <a href="#-month">Month</a> • 
  <a href="#-tech-stack">Tech Stack</a> • 
- <a href="#-how-to-contribute">How to contribute</a> • 
  <a href="#-author">Author</a> • 
  <a href="#user-content--license">License</a>
 </p>
