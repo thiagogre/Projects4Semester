@@ -69,6 +69,6 @@ The following tech were used in the construction of the project:
 
 This project is under the license MIT.
 
-Made with ❤️ by Thiago Gregorio 👋🏽 [Get in touch!](https://www.linkedin.com/in/ThiagoLuizGregorio/)
+Made with ❤️ by Thiago Gregorio 👋🏽 [Get in touch!](https://www.linkedin.com/in/ThiagoLuizGregorio)
 
 ---
