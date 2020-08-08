@@ -1,21 +1,21 @@
 <p align="center">
-  <a href="https://github.com/thiagogre/Projects4Semester/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagogre/Projects4Semester">
+  <a href="https://github.com/thiagogre/Portfolio/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/thiagogre/Portfolio">
   </a>
-   <a href="https://github.com/thiagogre/Projects4Semester/blob/master/LICENSE">  
+   <a href="https://github.com/thiagogre/Portfolio/blob/master/LICENSE">  
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    </a>
-   <a href="https://github.com/thiagogre/Projects4Semester/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/thiagogre/Projects4Semester?style=social">
+   <a href="https://github.com/thiagogre/Portfolio/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/thiagogre/Portfolio?style=social">
   </a>
 
-  <a href="https://www.linkedin.com/in/thiago-gregório-4b1a331a3/">
+  <a href="https://www.linkedin.com/in/ThiagoLuizGregorio/">
     <img alt="Built by Thiago" src="https://img.shields.io/badge/built%20by-Thiago%20Gregorio-%237519C1">
   </a>
 </p>
 
 <h4 align="center"> 
-	🚧 Projects4Semester 🚧 In Progress... 🚀
+	🚧 Portfolio 🚧 In Progress... 🚀
 </h4>
 
 <p align="center">
@@ -60,7 +60,7 @@ The following tech were used in the construction of the project:
  <sub><b>Thiago Gregorio</b></sub>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-gregório-4b1a331a3/)](https://www.linkedin.com/in/thiago-gregório-4b1a331a3/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ThiagoLuizGregorio/)](https://www.linkedin.com/in/ThiagoLuizGregorio/) 
 [![Gmail Badge](https://img.shields.io/badge/-thiagoluiz_16@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiagoluiz_16@hotmail.com)](mailto:thiagoluiz_16@hotmail.com)
 
 ---
@@ -69,6 +69,6 @@ The following tech were used in the construction of the project:
 
 This project is under the license MIT.
 
-Made with ❤️ by Thiago Gregorio 👋🏽 [Get in touch!](https://www.linkedin.com/in/thiago-gregório-4b1a331a3)
+Made with ❤️ by Thiago Gregorio 👋🏽 [Get in touch!](https://www.linkedin.com/in/ThiagoLuizGregorio/)
 
 ---
