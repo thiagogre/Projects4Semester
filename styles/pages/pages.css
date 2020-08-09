@@ -1,0 +1,33 @@
+.cards {
+    max-width: 80rem;
+    margin: 0 auto;
+}
+.card {
+    margin-top: 5rem;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem;
+}
+
+.card_container {
+    background-color: var(--color-text-white);
+    border-radius: 2rem;
+    margin: auto 1rem;
+}
+
+.card_container img {
+    margin: 2rem;
+    width: 50%;
+}
+
+.card_container p {
+    margin: 2rem;
+    text-align: justify;
+}
+
+@media (max-width: 600px) {
+    .card {
+        grid-template-columns: 1fr;
+    }
+}
