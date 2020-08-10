@@ -1,8 +1,10 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
 .cards {
+    text-align: center;
     max-width: 80rem;
     margin: 0 auto;
-}
-.card {
+
     margin-top: 5rem;
 
     display: grid;
@@ -11,14 +13,18 @@
 }
 
 .card_container {
+    margin-top: 2rem;
     background-color: var(--color-text-white);
     border-radius: 2rem;
-    margin: auto 1rem;
+    cursor: pointer;
+    padding-bottom: 1.2rem;
 }
 
 .card_container img {
-    margin: 2rem;
-    width: 50%;
+    margin: 2rem 0;
+    border-radius: 1rem;
+    border: 2px solid black;
+    width: 80%;
 }
 
 .card_container p {
@@ -26,8 +32,63 @@
     text-align: justify;
 }
 
+.modal-overlay {
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+
+    opacity: 0;
+    visibility: hidden;
+}
+
+.modal-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.modal {
+    width: 90%;
+    height: 90%;
+    margin: 5vh auto;
+    position: relative;
+}
+
+.close-modal {
+    font-size: 2rem;
+    color: red;
+    background-color: transparent;
+    position: absolute;
+    right: -2rem;
+    cursor: pointer;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
 @media (max-width: 600px) {
-    .card {
+    
+    .cards {
+        margin: 0 3rem;
         grid-template-columns: 1fr;
+    }
+
+    .modal {
+        margin-top: 50%;
+        position: relative;
+    }
+
+    .close-modal {
+        right: 0;
+    }
+
+    iframe {
+        width: 90%;
+        height: 50%;
     }
 }

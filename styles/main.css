@@ -18,7 +18,6 @@
 
 body {
     display: block; /*display block == quebra a linha*/
-    text-align: center;
     background-color: var(--color-blue-primary-light);
 }
 
@@ -47,6 +46,10 @@ header div a:hover {
     transition: color 200ms;
 }
 
+#wrapper {
+    text-align: center;
+}
+
 #wrapper img {
     margin-top: 15rem;
     width: 16rem;
@@ -55,8 +58,8 @@ header div a:hover {
 }
 
 #wrapper h1 {
-    padding-top: 20px;
-    font-weight: solid;
+    padding-top: 40px;
+    font-weight: 600px;
     margin-bottom: 1rem;
 }
 
