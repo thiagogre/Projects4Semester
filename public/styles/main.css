@@ -72,14 +72,3 @@ header div a:hover {
     font-weight: normal;
     opacity: 0.8;
 }
-
-@media (max-width: 600px) {
-    header {
-        padding: 20px;
-    }
-    
-    header div {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr;
-    }
-}
