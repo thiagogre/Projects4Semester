@@ -20,10 +20,17 @@
         </div>
     </header>
     <div id="wrapper">
-        <img src="/images/Iam.jpeg" alt="Thiago Gregorio">
-        <h1>thiagogre</h1>
-        <h2>Welcome</h2>
-        <h3>I'm Technology Enthusiast</h3>
+        <img src="{{ home.avatar_img }}" alt="Img {{ home.name }}">
+        <h1>{{ home.name }}</h1>
+        <h2>{{ home.welcome }}</h2>
+        <h3>{{ home.description }}</h3>
+    </div>
+    <div id="links_footer" class="links">
+        {% for link in home.links %}
+            <a href="{{ link.url }}" target="_blank">
+                <i class="fa fa-{{link.name}}"></i>
+            </a>
+        {% endfor %}
     </div>
 </body>
 </html>

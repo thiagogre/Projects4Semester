@@ -6,6 +6,7 @@ const { pageLanding, aboutProject, digitalSystems} = require("./pages")
 nunjucks.configure('src/views', {
     express:server,
     noCache: true,
+    autoescape: false
 })
 
 server

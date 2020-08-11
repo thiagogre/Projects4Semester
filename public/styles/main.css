@@ -1,3 +1,5 @@
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
 :root {
     --color-blue-primary: rgb(75, 189, 255);
     --color-blue-primary-dark: rgb(0, 92, 145);
@@ -71,4 +73,21 @@ header div a:hover {
 #wrapper h3 {
     font-weight: normal;
     opacity: 0.8;
+}
+
+.links {
+    text-align: center;
+    margin-top: 1rem;
+    width: 100%;
+    font-size: 2rem;
+}
+
+.links a {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.links a:hover {
+    color: whitesmoke;
 }
