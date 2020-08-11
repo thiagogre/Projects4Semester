@@ -30,8 +30,13 @@ function digitalSystems(req, res) {
     return res.render("digital_systems.html", { items: video })
 }
 
+function eletricity(req, res) {
+    return res.render("eletricity.html", { items: video })
+}
+
 module.exports = {
     pageLanding,
     aboutProject,
     digitalSystems,
+    eletricity
 }
