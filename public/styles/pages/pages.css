@@ -12,7 +12,6 @@
 }
 
 .card_container {
-    margin-top: 2rem;
     background-color: var(--color-text-white);
     border-radius: 2rem;
     cursor: pointer;
@@ -23,7 +22,8 @@
     margin: 2rem 0;
     border-radius: 1rem;
     border: 2px solid black;
-    width: 80%;
+    width: 400px;
+    height: 200px;
 }
 
 .card_container p {

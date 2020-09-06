@@ -17,7 +17,12 @@
 <h4 align="center"> 
 	🚧 Portfolio 🚧 In Progress... 🚀
 </h4>
-
+</h2>
+<div align="center">
+	<img alt="edit" width="100%" title="#Desktop" src="./assets/portfolio-electronics.gif">
+	<img alt="edit" height="380px" title="#Mobile" src="./assets/port-elec-mobile.gif">
+</div>
+</br>
 <p align="center">
  <a href="#-about-the-project">About</a> •
  <a href="#-month">Month</a> • 
@@ -35,7 +40,7 @@ I've was idea to create this Portfolio for post my projects of electronic and el
 
 ## 🧭 Month
 
-- [ ] August
+- [x] August
 - [ ] September
 - [ ] October
 - [ ] November
