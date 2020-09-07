@@ -13,7 +13,12 @@
     <img alt="Built by Thiago" src="https://img.shields.io/badge/built%20by-Thiago%20Gregorio-%237519C1">
   </a>
 </p>
-
+<p align="center">
+  <img align="center" alt="with_love" src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img align="center" alt="html" src="https://forthebadge.com/images/badges/uses-html.svg" />
+  <img align="center" alt="css" src="https://forthebadge.com/images/badges/uses-css.svg" />
+  <img align="center" alt="js" src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
+<p>
 <h4 align="center"> 
 	🚧 Portfolio 🚧 In Progress... 🚀
 </h4>
